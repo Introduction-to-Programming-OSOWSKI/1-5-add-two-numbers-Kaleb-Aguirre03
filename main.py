@@ -1,7 +1,6 @@
 #defube a fuctiion to add two numbers
 def add(x, y):
-    print (x + y)
+    return x + y
 
 #print the function in order to test it
-add(11, 23)
-
+print(add(11, 23))
